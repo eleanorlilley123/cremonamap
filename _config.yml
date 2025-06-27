@@ -24,7 +24,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 ##########
 # COLLECTION SETTINGS
 # metadata: Copy of psychiana_cbdemo_gh - Sheet1
-# demo-metadata
+
 
 ##########
 # Site/Organization Branding 
@@ -34,7 +34,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # organization-link: https://cdil.lib.uidaho.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-
+metadata: demo-metadata
 ##########
 # ROBOTS EXCLUDE
 #
